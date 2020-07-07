@@ -5,4 +5,4 @@ The objective of this project is to forecast the future price of Avocado. The da
 • Facebook Prohpet is used to model and forecast the price. <br>
 
 # How to run:
-Check the Price Forecasting Using Facebook Prophet.ipynb for details.
+Check the Price_Forecasting_Using_Facebook_Prophet.ipynb for details.
