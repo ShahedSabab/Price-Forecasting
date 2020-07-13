@@ -12,3 +12,4 @@ Check the Price_Forecasting_Using_Facebook_Prophet.ipynb for details.
 <img src="series.PNG" width="100%">
 <img src="distribution.PNG" width="70%">
 <img src="forecast.PNG" width="70%">
+<img src="trend.PNG" width="70%">
